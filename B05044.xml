@@ -1,0 +1,360 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon prerched [sic] by Mr. James Row, sometime minister at Strowan, in St. Geilles Kirk at Edinburgh, which has been commonly known by the name of Pockmanty preaching.</title>
+            <author>Row, James, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05044</idno>
+            <idno type="STC">Wing R2057A</idno>
+            <idno type="STC">ESTC R182864</idno>
+            <idno type="EEBO-CITATION">51784628</idno>
+            <idno type="OCLC">ocm 51784628</idno>
+            <idno type="VID">175036</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05044)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175036)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2710:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon prerched [sic] by Mr. James Row, sometime minister at Strowan, in St. Geilles Kirk at Edinburgh, which has been commonly known by the name of Pockmanty preaching.</title>
+                  <author>Row, James, 17th cent.</author>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>c. 1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Manuscript notes, p. [10]-[12].</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: page numbers cropped, print show-through, with loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Controversial literature --  Early works to 1800.</term>
+               <term>Bible. --  O.T. --  Jeremiah --  XXX, 17 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:175036:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:175036:1" rendition="simple:additions"/>
+            <head>
+               <hi>A SERMON</hi> Prerched by Mr. <hi>James Row,</hi> ſometime Miniſter at <hi>Strowan,</hi> in St. <hi>Geilles</hi> Kirk at <hi>Edinburgh,</hi> which has been commonly known by the Name of <hi>Pockmanty Preaching.</hi>
+            </head>
+            <epigraph>
+               <bibl>
+                  <hi>Jeremiah</hi> Chap. 30. Verſe 17.</bibl>
+               <q>For I will reſtore health to thee, and I will heal thee of thy wounds, ſaith the LORD, becauſe they called thee an Out-caſt, ſaying, This is Zion whom no Man ſeeketh after.</q>
+            </epigraph>
+            <p>I Need not trouble you much who is meant by <hi>Zion</hi> here, ye all ken it, it is the poor Kirk of <hi>Scotland,</hi> for the Kirk of <hi>Scotland</hi> is wounde<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> her <hi>Head,</hi> in her <hi>Hands,</hi> in her <hi>Feet,</hi> and in her <hi>Heart.</hi>
+            </p>
+            <p>
+               <hi>Firſt</hi> in her <hi>Head</hi> in the Government. 2dly. In her <hi>Hands,</hi> in the Diſcipline. 3dly. In her <hi>Heart,</hi> as in the Doctrine. 4thly. In her <hi>Feet,</hi> as in the Worſhip.</p>
+            <p>
+               <hi>Firſt,</hi> The Kirk of <hi>Scotland</hi> is wounded in her <hi>Head,</hi> ſhe has gotten ſik a Claſh in her <hi>Head,</hi> as has gart all her Harns jaap, and her Senſes, that is, her Senſe of Seeing; for the Kirk of <hi>Scotland</hi> wald a ſeen als well as any <hi>C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riſtian Kirk</hi> in the wyd Warld, but now ſhe cannot diſtinguiſh between whyt and black; For bring but Pepery before her, and ſhe cannot diſcern between that and the true Religion.</p>
+            <p>
+               <hi>Secondly,</hi> She is wounded in her Hearing: The Kirk of <hi>Scotland</hi> could a Heard and Diſtinguiſh<g ref="char:EOLhyphen"/>ed, out ſen the Organs were brought in, ſhe has grown as Deaff as a Door-Nail.</p>
+            <p>
+               <hi>Thirdly,</hi> The Kirk of <hi>Scotland</hi> coud a ſin<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> as well as any Kirk in the Warld, but the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is
+<pb facs="tcp:175036:2" rendition="simple:additions"/>of <hi>Rome</hi> ſmelt ſo ſtrangly, that ſhe could a ta<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> you, ſhe ſmell'd of the Whore of <hi>Babel;</hi> Bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now bring the ſtinkeneſt Pepery to the Kirk <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Scotland,</hi> and it will ſmell to her as ſweet as a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Apple: Now poor Spectacle! ye have ſeen he<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Hands,</hi> and her ſare <hi>Legs;</hi> A wofull Object pity her if ye will: What ſay ye to the Cureing of her Senſes; but ſome will tell, ſhe is in as good a Caſe as ever ſhe was. I'le tell you how ſae,</p>
+            <p>
+               <hi>Firſt,</hi> The Kirk of <hi>Scotland</hi> ſees better than e<g ref="char:EOLunhyphen"/>ver ſhe did before; the Kirk of <hi>Scotland</hi> ſay her Miniſters in good little ſhort Cloaks, wi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> black Velvet Necks, and their little Cloa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> turned mae Sauls to God, nor ever the Ia<gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> Gowns did; but ye ſhall ſee the Prydful Prelats harled up and down the Town in Co<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>s, as in as many muck Carts; that is a bra ſight indeed.</p>
+            <p>
+               <hi>Secondly,</hi> The Kirk of <hi>Scotland</hi> Taſtes better then ever ſhe did, and how ſae? I'le tell you, a good Miniſter wald a been content of a Diſh of plain Milk and Bread, humble Meat indeed, but our Prelats now, will have a Lick of the beſt o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it: So ye ſee the Kirk of <hi>Scotland</hi> Taſtes bet<g ref="char:EOLhyphen"/>ter then ever ſhe did, and I have done with h<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Senſes.</p>
+            <p>Now, I'le tell you, how ſhe is wounded in he<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Hands,</hi> and that I call the Diſcipline of the Kirk. For,</p>
+            <p>
+               <hi>Firſt,</hi> They fflichtered the Kirk of <hi>Scotland</hi> ye ken well they uſe to flighter Theives and Runaways; the Kirk of <hi>Scotland</hi> was baith.</p>
+            <p n="1">1ſt. She was a Runaway, and that was the Glorious time of Reformation, when ſhe came <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lear awa fra <hi>Rome,</hi> and hard did they follow <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, and fain wald they been at her, but and
+<pb facs="tcp:175036:2" rendition="simple:additions"/>they had gotten their will, ſhe wald a been ſure of her Ladetties, or to ſpeak more plainly of her Dichells, but God be thanked they did not oretake her.</p>
+            <p n="2">2dly. The Kirk of <hi>Scotland</hi> is a Theif, alas ſhe has gane to <hi>Rome,</hi> and has ſtown awa the Traſh and Trumpery, as the Books of <hi>Common Prayer and Cannons,</hi> wallawa! But what trou ye ſhe is flichterd with, but with a Silken Threed and a Cannonical Obedience to their Ordinary, and wow but we have taken great delight to be bound: We had once a bonny Kirk, but after they got us faſt, they made the ſilken Threed a Cable-Tow, with which they girded us ſo faſt that we could not ſae much as fidge, but either we muſt run into the Danger of blind Obedience on the one ſide, to accept of all Idolatry and Superſti<g ref="char:EOLhyphen"/>tious Cerimonies they impoſed on us, or on the the other hand, be Menſworn Men; Na, the Kirk of <hi>Scotland</hi> is ſae wounded in her <hi>Hands,</hi> that thir Twenty Years bygane, ſhe coud not make her Hummock in a cald day, for the Kirk of <hi>Scotland</hi> thir Twenty Years bygane, coud not have a Meeting in a Lawful Aſſembly; and ſo I have done with her <hi>Hands:</hi> Now I come to tell you how, how ſhe is wounded in her <hi>Feet;</hi> and that I call the Worſhip of the Kirk of <hi>Scotland.</hi>
+            </p>
+            <p>The Kirk of <hi>Scotland</hi> was a bonny trotting Naig, but then ſhe ttotted ſae hard, that never a Man durſt rid her, but the Biſhops, wha after they gat on on her Back, Corſs langed her and Hapſhackled her, and when ſhe became a bonny pacing Beaſt, they took great pleaſure to Ride on her, but their Cadging her up and down from <hi>Edinburgh</hi> to <hi>London,</hi> and it may be from <hi>Rome</hi>
+               <pb facs="tcp:175036:3" rendition="simple:additions"/>too, gave her ſik a het Coat, that we have theſe Twelve Months bygane been ſtirring her up and down to keep her faae foundying; Yea, tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> made not only a Horſe but an Aſs of the Kirk <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Scotland:</hi> How ſae quo ye? what mean ye b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this? I'le tell you how, they made <hi>Balaams</hi> A<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of her, ye ken well enough, <hi>Balaam</hi> was go<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> an unluckie gait, and firſt the Angel met <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in a broad way, and then the Aſs bogled <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtartled, but <hi>Balaam</hi> got by the Angel, and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> her and Battand her ſufficiently, that was wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Epiſcopacy came in, and then they gave th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kirk of <hi>Scotland</hi> her Paiks; Afterward <hi>Bala<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> met the Angel in a ſtrait gait, and then ſhe ſtar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>led more then before; but <hi>Balaam</hi> till her <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> gain and whaked her ſoundly, that, was whe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the five Articles of <hi>Perth</hi> were brought in <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> The third time the Angel met <hi>Balaam</hi> in fa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtrait a gait, that the Aſs could not win by; and then it pleaſed the LORD to open blind <hi>Balaams</hi> Eyes, and that is this happy days wark: Now GOD has opened all our Eyes, we were like blind <hi>Balaam,</hi> ganging an unluckie gait and Riding poſt to <hi>Rome,</hi> and what was gotten behind him upon the Aſs, wat ye? I'le tell you, there was a Pockmanty; And what was in it trou ye? but the Book of Cannons and of Com<g ref="char:EOLhyphen"/>mon Prayer, and the High Commiſſion; But as ſoon as the Aſs ſees the Angel, ſhe falls a fling<g ref="char:EOLhyphen"/>ing and a plunging, and oregangs the Pockmanty, and it hings by the ſtring on the one ſide, and aff-gaes blind <hi>Balaam,</hi> and he hings by the Hough on the other ſide; and fain wald the Carle been on the Sadle again, and been con<g ref="char:EOLhyphen"/>tent to leave his Pockmanty. But Beloved, let
+<pb facs="tcp:175036:3" rendition="simple:additions"/>not the falſe Swingour get on again, for if he get on agai<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> he will be ſure to get on his Pock man<g ref="char:EOLhyphen"/>ty alſo.</p>
+            <p>The 4th Wound the Kirk of <hi>Scotland</hi> got was in her <hi>Heart,</hi> and that I tald you was the Doct<g ref="char:EOLhyphen"/>rine of the Kirk of <hi>Scotland,</hi> and that is <hi>Peperie</hi> and <hi>Arinianiſm,</hi> whilk is ſae ryfe in our Schools and Kirks; ney, are there not ſome of you that are ſiting here and hears me, wha wald not a wiſht your ſelves a Hundred times to a been out of the Kirk, when ye heard the <hi>Peltrie Stuff</hi> that came frae them. Ye have heard many times Brethren (Compared together) the Kirk and our Lord Jeſus, for he is the Head, and the Kirk is the Body, and that our Saviour ere he enter<g ref="char:EOLhyphen"/>ed the Miniſtry he was carryed by <hi>Luciter</hi> (God ſave us) to the Wilderneſs where he was Temp<g ref="char:EOLhyphen"/>ted of the <hi>Meikle Devil,</hi> then he was Rejected and let light of by all; But as ſoon as he began to work his Miracles, he was carried up to <hi>Je<g ref="char:EOLhyphen"/>ruſalem</hi> in Triumph, there was nothing in their Mouths then, but <hi>Hoſanna's, Bleſt is he that comes in the Name of the Lord,</hi> but the next News that they heard, in they came with <hi>Halbarts</hi> and <hi>Jothard Stalves</hi> frac the High Preiſt to appre<g ref="char:EOLhyphen"/>hend him; juſt ſae is it with the Poor Kirk of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> for this year bygain ſhe has ſitten Deſolate and in the Wilderneſs cotemned, nothing cared for by man, and now is the Glorious Day, ſhe is Rydding in Triumph to <hi>Jeruſalem,</hi> now there is nothing in all Mouths but <hi>Hoſanna's,</hi> but take heed when they come with <hi>Swords</hi> and <hi>Stalves</hi> frae the Hight Prieſt, that ſome do not with <hi>Peter</hi> ſhaw a pair of Heels and forſake her.</p>
+            <p>They have not only made an Aſs of the Kirk
+<pb facs="tcp:175036:4" rendition="simple:additions"/>of <hi>Scotland</hi> but they have betrayed her, ye h<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> wha betrayed our Saviour, they betrayed hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that were ſilent in ſae good a Cauſe, they b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>trayed him that accuſed him, that Judged him they betrayed him that forſook him; but whe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will ye find the falſe <hi>Judas</hi> all the while? an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now I'le tell you a Tale, I dar not ſay it is tru<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but ye ſhall have it as I have it; When I w<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> little Boy at the School, there was a Hop<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> Theologue, wha is now na ſmall Man in <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Land, and being to Preach the very ſame Wor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Judas, What will ye give me and I will betr<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> him?</hi> The young Man Learned his Text ſae w<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> that he could a tald it baith in <hi>Latine</hi> and <hi>Sc<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Quid mihi dabitis &amp; ego Tradum illum?</hi> what w<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ye give me and I will betray him? There was <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Good-man Sitting at the Foot of the Poupit, was ſtanding up looking in his Face, ſaid, Marie <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> give you a good Fat Biſhoprick, and then I a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſure ye will betray him, ſay ye ſae; Wha ha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Betrayed the Kirk of <hi>Scotland?</hi> I need not te<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> you, but the Kirk of <hi>Scotland</hi> was once an <hi>Bo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nie Kirk</hi> and a <hi>Bonnie Gramar School,</hi> and well <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wat, ſhe had Skill in <hi>Regimen &amp; Concordenti<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and could a made a peice of <hi>Bonnie Latine,</hi> an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for every thing ſhe was forced to <hi>da Regula<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and when ſhe offended ſhe was ſure of <hi>pan<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Manum;</hi> But afterwards when ſhe went to the College ſhe had mair Liberty, and firſt of all ſhe began to <hi>Rhetorick,</hi> but inſtead of proper ſpeaking ſhe Learned nothing but <hi>Hyperboles</hi> and <hi>Allegories,</hi> then ſhe came into the <hi>Logick,</hi> and in ſtead of <hi>true Demonſtrations</hi> ſhe Learned nothing but <hi>Homonimaes</hi> and <hi>Captious Sylogiſms,</hi> after<g ref="char:EOLhyphen"/>wards ſhe came to <hi>Aethicks,</hi> but ſhe did not
+<pb facs="tcp:175036:4" rendition="simple:additions"/>trouble her ſelf meikle with them, but Studied the <hi>Politicks,</hi> and that ſae well, that ſhe turned all Religion into <hi>Meer flat Policy:</hi> for Metaphy<g ref="char:EOLhyphen"/>ſicks ſhe kens they are Ens, and that muſt be <hi>unum, verum, bonum,</hi> and that all theſe three muſt be in true Religious, but this was too high a Theme for her, wherefore ſhe ſtudied more the <hi>Phyſicks</hi> and turned all into <hi>Materia prima,</hi> and made it ſelf Capable of any Form they pleaſed to Impoſe upon us.</p>
+            <p>After he had done with Sermon and Prayer, then ſtood he up to give the Bleſſing, and there<g ref="char:EOLhyphen"/>after ſaid as follows.<lb/>
+               <q>I ken well enough it is not the Faſhion of this place to Speak any thing after Prayer, but becauſe I had meikle to ſay, and one thing dang another out of my <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ead, wherefore I muſt beg Leave to add a Word or twa.</q>
+            </p>
+            <p>AND firſt of all, I will ſpeak to you who are the Members of the <hi>College of Juſtice,</hi> and why I pray you, will not ye Subſcrive the Co<g ref="char:EOLhyphen"/>venant? ye will ſay to me, ye are Imployed by His Majeſty in ſome ſpecial Affairs, and you cannot with your Honour Subſcrive the Covenant; This is a bra Anſwer indeed, there is not the Meaneſt Man that gathers up Twenty Merks for the King <hi>per Annum,</hi> but may have this Hole to go out at, then we ſhall have a bra Subſcriving, yea, yea, there is but one Man between God and you, get by that Man, and get to God.</p>
+            <p>And in the ſecond place, Why do not ye No<g ref="char:EOLhyphen"/>blemen Subſcrive the Covenant? ye will ſay <hi>noli me tangere,</hi> Howſoever I'le give you a Touch, It may be you will be put to it, ye will fay, we muſt Ride in Parliament Order, the mean<g ref="char:EOLhyphen"/>eſt
+<pb facs="tcp:175036:5" rendition="simple:additions"/>man muſt go foremoſt and Subſcrive the C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>venant, and then we will come after, that i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bra Anſwer indeed, you have a Faſhion in t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uth</hi> part of <hi>Scotland,</hi> that wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n ye come to <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Foord, the Jackman muſt venter over firſt <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pon his weak weary Naig, and if he can go an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> come back again, then up comes the Laird mounted on his Stately Steed and over goes <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this is no Right, But we that are <hi>Highlanders</hi> have a better Faſhon, for we uſually come <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Foot, and when we come to the Foord we ar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> loth to leave a Man; therefore we join Oxſt<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to Oxſter, and Arm to Arm, and Loups al<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>gether in the Foord, and if one Drown all Drowns even ſo here, ſet your Hands to the Covenant, and if an periſh, let all periſh.</p>
+            <p>Now, I'le ſpeake a word to you of the Town of <hi>Edinburgh;</hi> and albeit I ſee two of your Chief Chayrs empty, yet have at you; And why do you not ſubſcrive the Covenant? It may be you will ſay, ye are in Office now, ſtay till the next Year till your Office be out, then ye will ſubſcrive the Covenant; That is a bra An<g ref="char:EOLhyphen"/>ſwer indeed, it may be God will get this wark done ere the next Year: What will your Thanks be then? get your Clerk Regiſter and look over your Rolls, and ſee if ever the Town of <hi>Edin<g ref="char:EOLhyphen"/>burg</hi> ſuffered for joining with the Kirk of <hi>Scotland.</hi>
+            </p>
+            <p>
+               <hi>Last of all, I have a mind to Speak a Word to you who are Strangers, and then Turning himſelf about to the place where the Proveiſt and Baillies of</hi> Aberdeen <hi>Sat; And what is the reaſon ye ſubſcrive not the Covenant? It may be ye will ſay, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e came here about your Civil Affairs; and when ye came out <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e re<g ref="char:EOLhyphen"/>ſolved not to Subſcrive the Covenant, will re take my Advice. I ſay <hi>Abvrdeens-men</hi> will you take your Word again, and go home and Drink the <hi>Cup of Bon <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ccord,</hi> and join to the Kirk of <hi>S<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>otland</hi> and ſubſcrive the Covenant, and ſo farewell.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175036:5" rendition="simple:additions"/>
+            <pb facs="tcp:175036:6"/>
+            <pb facs="tcp:175036:7" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:175036:8" rendition="simple:additions"/>
+            <pb facs="tcp:175036:9" rendition="simple:additions"/>
+            <pb facs="tcp:175036:9" rendition="simple:additions"/>
+            <pb facs="tcp:175036:10" rendition="simple:additions"/>
+            <pb facs="tcp:175036:10" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
